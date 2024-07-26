@@ -1,0 +1,3 @@
+i latest dependecies
+npm i react@rc
+npm i react-dom@rc
